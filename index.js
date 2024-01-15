@@ -1,0 +1,1 @@
+setInterval(() => console.log("sialalala"), 1000)
